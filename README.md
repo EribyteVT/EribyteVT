@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @EribyteVT
 - 👀 I’m interested in Women
 - 🌱 I’m currently learning how to stream
-- 📫 How to reach me: scream into the void
+- 📫 How to reach me: https://twitch.tv/EribyteVT
+
+Hello world, I'm Eribyte, your average software engineer and Vtuber. I enjoy science, programming, crafting, baking, and of course, playing video games, as well as using way too many commas in most of my sentences, including this one.
 
 <!---
 EribyteVT/EribyteVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
