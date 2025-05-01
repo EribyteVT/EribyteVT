@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EribyteVT
 - 👀 I’m interested in Women
-- 🌱 I’m currently learning how to stream
-- 📫 How to reach me: https://twitch.tv/EribyteVT
 
 Hello world, I'm Eribyte, your average software engineer and Vtuber. I enjoy science, programming, crafting, baking, and of course, playing video games, as well as using way too many commas in most of my sentences, including this one.
 
